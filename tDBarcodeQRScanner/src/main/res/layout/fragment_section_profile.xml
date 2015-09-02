@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1"
+    android:background="@android:color/holo_blue_light">
+
+    <ImageView
+        android:layout_width="846dp"
+        android:layout_height="238dp"
+        android:id="@+id/usersQrCode"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/twitter" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/user_fullname_profile"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Choose which social accounts you would like to share with other people:"
+        android:id="@+id/textView"
+        android:textSize="40px"
+        android:textAlignment="center"
+        android:layout_weight="0.41"
+        android:paddingLeft="20px"
+        android:paddingTop="20px"
+        android:textColor="#ffffff" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Facebook"
+        android:id="@+id/switch_fb"
+        android:checked="false"
+        android:paddingLeft="20px" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LinkedIn"
+        android:id="@+id/switch_li"
+        android:checked="false"
+        android:paddingLeft="20px" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Twitter"
+        android:id="@+id/switch_tw"
+        android:checked="false"
+        android:paddingLeft="20px" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instagram"
+        android:id="@+id/switch_in"
+        android:checked="false"
+        android:paddingLeft="20px" />
+
+    <Button
+        android:id="@+id/login_or_logout_button_profile"
+        style="@style/ParseLoginUI.Button"
+        android:layout_marginTop="@dimen/com_parse_ui_large_vertical_spacing"
+        android:text="@string/profile_logout_button_label"/>
+
+</LinearLayout>

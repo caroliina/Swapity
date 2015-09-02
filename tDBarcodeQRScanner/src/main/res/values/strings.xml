@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swapity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+
+    <string name="parse_app_id">Se6YbjDMZIzrol92VbMDxeqNdhDPuaTgwHcQojpk</string>
+    <string name="parse_client_key">6M6HcXXh4u7qnXTldAev37xlUFWWBBhcNZSzeb9D</string>
+    <string name="facebook_app_id">1045262625514460</string>
+
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+
+</resources>

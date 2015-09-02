@@ -1,0 +1,10 @@
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/classes/debug
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1fb5f1359bfbabc3baa75b8a3b929e9147d3edd7.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-819bc0992177edd80cc3dc5361db231ef2c28dbd.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-6f847d29c2a5a61a4541b6795495be9029a675d9.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-e986347adbf9fa79d356f97e1c577d879d5a4450.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c6593c2f3e187cae394bb4989d11bb3b6e19fe18.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-beac15866fdcf958bca5739b8dd9fb4aa8271877.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-42a2ab1aa58a373264234abd6263c3bfaa07e619.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/Parse-1.9.1-e3da35087eff05df9dde2fef96348af56728725e.jar
+/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-a8195adddb96bbc4916dfed1dd40ef8de708b1b8.jar

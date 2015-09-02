@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ParseLoginUI/ParseLoginUI.iml" filepath="$PROJECT_DIR$/ParseLoginUI/ParseLoginUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swapity.iml" filepath="$PROJECT_DIR$/Swapity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryBarQRcodeScanner/libraryBarQRcodeScanner.iml" filepath="$PROJECT_DIR$/libraryBarQRcodeScanner/libraryBarQRcodeScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tDBarcodeQRScanner/tDBarcodeQRScanner.iml" filepath="$PROJECT_DIR$/tDBarcodeQRScanner/tDBarcodeQRScanner.iml" />
+    </modules>
+  </component>
+</project>

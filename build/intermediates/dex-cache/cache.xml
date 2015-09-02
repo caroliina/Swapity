@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/caroliinalaantee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-e986347adbf9fa79d356f97e1c577d879d5a4450.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/Swapity/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/Parse-1.9.1-e3da35087eff05df9dde2fef96348af56728725e.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-a8195adddb96bbc4916dfed1dd40ef8de708b1b8.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/Swapity/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-819bc0992177edd80cc3dc5361db231ef2c28dbd.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-8530ea8ea39ec6e8802e8e6f9ae23bd1c6f22db8.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/TDBarcodeQRScanner 2/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-74c802211ad087e045e78a8191f73f12857f4681.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/Swapity/libraryBarQRcodeScanner/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="683a8bfc3067975174d4ad13e18f404ff4b934bf">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-42a2ab1aa58a373264234abd6263c3bfaa07e619.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-530b5150c84e8d0dcdf305e72c2f701a93bcd3b6.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1fb5f1359bfbabc3baa75b8a3b929e9147d3edd7.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-beac15866fdcf958bca5739b8dd9fb4aa8271877.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/Swapity/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1bd00a4dc7f27ed7cb29ad4c17df5d0808722218">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-6f847d29c2a5a61a4541b6795495be9029a675d9.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/TDBarcodeQRScanner 2/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1252d330a46b85ce9da17e6e5dc8e668488bc47">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-ee13a5084568a9ed8fdd3236c9ce6b6ae1803525.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c6593c2f3e187cae394bb4989d11bb3b6e19fe18.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-70ec12b78045da6beecd3f7c97038683c11cbc26.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/TDBarcodeQRScanner 2/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/Parse-1.9.1-9bfec720e8db9beaac562ff092b4be29c0195ad9.jar" />
+    </item>
+    <item
+        jar="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/exploded-aar/TDBarcodeQRScanner 2/libraryBarQRcodeScanner/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="46269dfe4f2845bf2d185d0820f8977e552a7907">
+        <dex dex="/Users/caroliinalaantee/Documents/Swapity/15.08.2015/TDBarcodeQRScanner 2/tDBarcodeQRScanner/build/intermediates/pre-dexed/debug/classes-0a72bcc1bb8479399b89766e6ff5722107c7be77.jar" />
+    </item>
+
+</items>

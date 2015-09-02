@@ -1,0 +1,401 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:tools
+		ADDED from AndroidManifest.xml:4:5
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:6:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:8:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:28:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:28:5
+	android:name
+		ADDED from AndroidManifest.xml:8:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:22
+uses-sdk
+ADDED from AndroidManifest.xml:11:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:23:5
+MERGED from Swapity:ParseLoginUI:unspecified:7:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:23:5
+MERGED from com.facebook.android:facebook-android-sdk:4.0.1:24:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:13:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:12:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:15:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:27:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:27:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:17:5
+	android:required
+		ADDED from AndroidManifest.xml:18:9
+	android:name
+		ADDED from AndroidManifest.xml:17:19
+application
+ADDED from AndroidManifest.xml:20:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:67:5
+MERGED from Swapity:ParseLoginUI:unspecified:11:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:67:5
+MERGED from com.facebook.android:facebook-android-sdk:4.0.1:28:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:24:9
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:70:9
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:70:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:22:9
+	android:icon
+		ADDED from AndroidManifest.xml:23:9
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:69:9
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:69:9
+	android:theme
+		ADDED from AndroidManifest.xml:25:9
+	tools:replace
+		ADDED from AndroidManifest.xml:21:9
+	android:name
+		ADDED from AndroidManifest.xml:26:9
+	android:logo
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:71:9
+meta-data#com.parse.ui.ParseLoginActivity.PARSE_LOGIN_ENABLED
+ADDED from AndroidManifest.xml:29:9
+	android:name
+		ADDED from AndroidManifest.xml:30:13
+	android:value
+		ADDED from AndroidManifest.xml:31:13
+activity#com.td.swapity.LoginActivity
+ADDED from AndroidManifest.xml:33:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:37:13
+	android:label
+		ADDED from AndroidManifest.xml:36:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:35:13
+	android:name
+		ADDED from AndroidManifest.xml:34:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:38:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:39:17
+	android:name
+		ADDED from AndroidManifest.xml:39:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:40:17
+	android:name
+		ADDED from AndroidManifest.xml:40:27
+activity#com.td.swapity.MainActivity
+ADDED from AndroidManifest.xml:44:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:48:13
+	android:label
+		ADDED from AndroidManifest.xml:47:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:46:13
+	android:name
+		ADDED from AndroidManifest.xml:45:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:49:13
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from AndroidManifest.xml:53:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:72:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:72:9
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:59:13
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:57:13
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:76:13
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:76:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:56:13
+	android:theme
+		ADDED from AndroidManifest.xml:58:13
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:78:13
+		REJECTED from Swapity:libraryBarQRcodeScanner:unspecified:78:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:77:13
+	android:clearTaskOnLaunch
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:74:13
+	tools:replace
+		ADDED from AndroidManifest.xml:54:13
+	android:name
+		ADDED from AndroidManifest.xml:55:13
+activity#com.parse.ui.ParseLoginActivity
+ADDED from AndroidManifest.xml:64:9
+	android:label
+		ADDED from AndroidManifest.xml:66:13
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:67:13
+meta-data#com.parse.ui.ParseLoginActivity.PARSE_LOGIN_EMAIL_AS_USERNAME
+ADDED from AndroidManifest.xml:72:13
+	android:name
+		ADDED from AndroidManifest.xml:73:17
+	android:value
+		ADDED from AndroidManifest.xml:74:17
+meta-data#com.parse.ui.ParseLoginActivity.FACEBOOK_LOGIN_ENABLED
+ADDED from AndroidManifest.xml:75:13
+	android:name
+		ADDED from AndroidManifest.xml:76:17
+	android:value
+		ADDED from AndroidManifest.xml:77:17
+activity#com.facebook.FacebookActivity
+ADDED from AndroidManifest.xml:79:9
+	android:label
+		ADDED from AndroidManifest.xml:83:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:80:13
+	android:theme
+		ADDED from AndroidManifest.xml:82:13
+	android:name
+		ADDED from AndroidManifest.xml:79:19
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from AndroidManifest.xml:84:9
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+	android:value
+		ADDED from AndroidManifest.xml:86:13
+uses-permission#android.permission.VIBRATE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:29:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:29:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:29:22
+uses-permission#android.permission.FLASHLIGHT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:30:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:30:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:30:22
+uses-permission#android.permission.READ_CONTACTS
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:31:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:31:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:31:22
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:32:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:32:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:32:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:33:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:33:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:33:22
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:34:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:34:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:34:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:35:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:35:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:35:22
+uses-feature#android.hardware.camera.any
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:43:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:43:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:43:19
+uses-feature#android.hardware.camera.autofocus
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:44:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:44:5
+	android:required
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:46:9
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:45:9
+uses-feature#android.hardware.camera.flash
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:47:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:47:5
+	android:required
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:49:9
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:48:9
+uses-feature#android.hardware.screen.landscape
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:50:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:50:5
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:50:19
+uses-feature#android.hardware.wifi
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:51:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:51:5
+	android:required
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:53:9
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:52:9
+uses-feature#android.hardware.touchscreen
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:55:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:55:5
+	android:required
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:57:9
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:56:9
+supports-screens
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:60:5
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:60:5
+	android:largeScreens
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:62:9
+	android:anyDensity
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:61:9
+	android:normalScreens
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:63:9
+	android:xlargeScreens
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:65:9
+	android:smallScreens
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:64:9
+intent-filter#android.intent.action.MAIN
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:80:13
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SCAN
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:83:13
+action#com.google.zxing.client.android.SCAN
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:84:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:84:25
+category#android.intent.category.DEFAULT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:86:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:86:27
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:89:13
+action#android.intent.action.VIEW
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:90:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:90:25
+category#android.intent.category.BROWSABLE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:93:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:93:27
+data
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:95:17
+	android:host
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:96:21
+	android:path
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:97:21
+	android:scheme
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:98:21
+activity#com.google.zxing.client.android.PreferencesActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:137:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:137:9
+	android:label
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:139:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:140:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:138:13
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:142:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:142:9
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:144:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:143:13
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.ENCODE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:145:13
+action#com.google.zxing.client.android.ENCODE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:146:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:146:25
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:151:13
+action#android.intent.action.SEND
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:152:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:152:25
+activity#com.google.zxing.client.android.book.SearchBookContentsActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:167:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:167:9
+	android:screenOrientation
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:171:13
+	android:label
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:170:13
+	android:configChanges
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:169:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:172:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:168:13
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:173:13
+action#com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:174:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:174:25
+activity#com.google.zxing.client.android.share.ShareActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:179:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:179:9
+	android:screenOrientation
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:181:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:182:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:180:13
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SHARE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:183:13
+action#com.google.zxing.client.android.SHARE
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:184:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:184:25
+activity#com.google.zxing.client.android.history.HistoryActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:189:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:189:9
+	android:label
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:191:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:192:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:190:13
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:193:13
+activity#com.google.zxing.client.android.share.BookmarkPickerActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:199:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:199:9
+	android:label
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:201:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:202:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:200:13
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:203:13
+action#android.intent.action.PICK
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:204:17
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:204:25
+activity#com.google.zxing.client.android.share.AppPickerActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:209:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:209:9
+	android:label
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:212:13
+	android:configChanges
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:211:13
+	android:stateNotNeeded
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:213:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:210:13
+activity#com.google.zxing.client.android.HelpActivity
+ADDED from Swapity:libraryBarQRcodeScanner:unspecified:220:9
+MERGED from Swapity:libraryBarQRcodeScanner:unspecified:220:9
+	android:screenOrientation
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:222:13
+	android:name
+		ADDED from Swapity:libraryBarQRcodeScanner:unspecified:221:13

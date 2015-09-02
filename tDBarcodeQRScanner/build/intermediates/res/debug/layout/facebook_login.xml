@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="388dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center"
+            android:src="@drawable/swapity"/>
+    </FrameLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Log in with Facebook"
+        android:id="@+id/buttonfb"
+        android:textColor="#ffffffff"
+        android:textSize="30sp"
+        android:padding="5dp"
+        android:background="#3b5998" />
+</LinearLayout><!-- From: file:/Users/caroliinalaantee/Swapity/tDBarcodeQRScanner/src/main/res/layout/facebook_login.xml -->
